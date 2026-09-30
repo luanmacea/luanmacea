@@ -24,6 +24,9 @@ jobs:
   summary-cards:
     runs-on: ubuntu-latest
     steps:
+      # A action grava os SVGs na árvore e faz commit dela: sem checkout não há
+      # repositório onde gravar ("git add ... status 128").
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
