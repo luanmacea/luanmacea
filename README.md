@@ -57,12 +57,12 @@ I'm a **back-end engineer** who builds APIs, data layers and the systems around 
   </a>
 </p>
 
-| What's inside | |
-| :--- | :--- |
-| 🦀 **Stack** | Rust (Tokio, Win32 APIs) · Tauri 2 · React 19 · TypeScript · Tailwind |
-| 🔐 **Security** | Accounts always encrypted on disk (Argon2 + XSalsa20-Poly1305); closed allowlists for anything that injects input |
-| 🧪 **Quality** | ~3,300 automated tests (Rust + Vitest) gating every commit, CI on GitHub Actions |
-| 🚀 **Delivery** | Signed auto-updates, per-user MSI with no admin prompt, every release scanned on VirusTotal and Windows Defender |
+<table>
+<tr><td>🦀 <b>Stack</b></td><td>Rust (Tokio, Win32 APIs) · Tauri 2 · React 19 · TypeScript · Tailwind</td></tr>
+<tr><td>🔐 <b>Security</b></td><td>Accounts always encrypted on disk (Argon2 + XSalsa20-Poly1305); closed allowlists for anything that injects input</td></tr>
+<tr><td>🧪 <b>Quality</b></td><td>~3,300 automated tests (Rust + Vitest) gating every commit, CI on GitHub Actions</td></tr>
+<tr><td>🚀 <b>Delivery</b></td><td>Signed auto-updates, per-user MSI with no admin prompt, every release scanned on VirusTotal and Windows Defender</td></tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/luanmacea/roblox-account-manager/releases/latest"><img src="https://img.shields.io/badge/⬇%20Download%20RAM-4F46E5?style=for-the-badge" alt="Download RAM" /></a>
