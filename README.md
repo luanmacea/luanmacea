@@ -139,28 +139,11 @@ Computer-vision automation shipped as a portable `.exe`, with its own licensing:
 
 ---
 
-## 💼 Experience
-
-| When | Where | What |
-| :--- | :--- | :--- |
-| 2026 — now | **Grupo EME Restaurantes** | Back-end of an internal full-stack platform: FastAPI + async SQLAlchemy, MySQL, Alembic migrations, JWT/RBAC, pytest + mypy strict, Docker |
-| 2023 — 2026 | **Arista Digital** | Spring Boot REST services, JPA/Hibernate, relational modeling, JUnit/Mockito, code reviews, React/React Native integration |
-
----
-
-## 📊 GitHub stats
+## 📊 Activity
 
 <p align="center">
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" alt="Profile details" />
 </p>
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most commit language" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=luanmacea&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=4f46e5&currStreakLabel=38bdf8" alt="GitHub streak" />
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanmacea/luanmacea/output/github-snake-dark.svg" />
@@ -171,7 +154,7 @@ Computer-vision automation shipped as a portable `.exe`, with its own licensing:
 
 <div align="center">
 
-<sub>Stats cards and the snake are regenerated every day by GitHub Actions in this repository.</sub>
+<sub>Regenerated every day by GitHub Actions in this repository.</sub>
 
 ⭐ **If RAM helps you, a star on the repo helps it reach more players.**
 
