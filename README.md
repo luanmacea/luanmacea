@@ -1,13 +1,13 @@
 <div align="center">
 
 <a href="https://github.com/luanmacea">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Luan+Macea+%F0%9F%91%8B;Back-end+Engineer+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+Python;Creator+of+RAM+%E2%80%94+Roblox+Account+Manager;2x+champion+of+FIAP+NEXT" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Luan+Macea+%F0%9F%91%8B;Back-end+Engineer+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+Python;Creator+of+MultiAlt+%E2%80%94+RAM;2x+champion+of+FIAP+NEXT" alt="Typing intro" />
 </a>
 
 <p>
   <a href="https://www.linkedin.com/in/luanmacea"><img src="https://img.shields.io/badge/LinkedIn-luanmacea-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:luanmacea@gmail.com"><img src="https://img.shields.io/badge/Email-luanmacea%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/luanmacea/roblox-account-manager"><img src="https://img.shields.io/badge/Featured-RAM-4F46E5?style=for-the-badge&logo=rust&logoColor=white" alt="RAM" /></a>
+  <a href="https://github.com/luanmacea/MultiAlt"><img src="https://img.shields.io/badge/Featured-MultiAlt%20%E2%80%94%20RAM-4F46E5?style=for-the-badge&logo=rust&logoColor=white" alt="MultiAlt — RAM" /></a>
 </p>
 
 </div>
@@ -20,7 +20,7 @@ I'm a **back-end engineer** who builds APIs, data layers and the systems around 
 
 - 🏢 Building an internal full-stack platform at **Grupo EME Restaurantes** — async REST API in **FastAPI + SQLAlchemy 2.0**, **JWT + RBAC** scoped per restaurant, a tested financial engine and analytics over a read-only data lake
 - 💼 Before that, **2.5 years at Arista Digital** shipping Spring Boot services with JPA/Hibernate, JUnit/Mockito and code reviews in a Scrum team
-- 🛠️ Creator and maintainer of **[RAM](https://github.com/luanmacea/roblox-account-manager)**, a Rust + Tauri desktop app for the Roblox community
+- 🛠️ Creator and maintainer of **[MultiAlt — RAM](https://github.com/luanmacea/MultiAlt)**, a Rust + Tauri desktop app for the Roblox community
 - 🏆 **2x champion** of FIAP NEXT (2023 and 2025) · 🥈🥉 national medalist at the Brazilian Robotics Olympiad
 - 🎓 Software Engineering at **FIAP** (2026) · 🌎 São Paulo, Brazil · Fluent in English
 
@@ -31,41 +31,41 @@ I'm a **back-end engineer** who builds APIs, data layers and the systems around 
 <table>
 <tr>
 <td width="120" align="center" valign="top">
-  <a href="https://github.com/luanmacea/roblox-account-manager">
-    <img src="https://raw.githubusercontent.com/luanmacea/roblox-account-manager/main/src-tauri/icons/128x128%402x.png" width="100" alt="RAM logo" />
+  <a href="https://github.com/luanmacea/MultiAlt">
+    <img src="https://raw.githubusercontent.com/luanmacea/MultiAlt/main/src-tauri/icons/128x128%402x.png" width="100" alt="MultiAlt logo" />
   </a>
 </td>
 <td valign="top">
 
-### [RAM — Roblox Account Manager](https://github.com/luanmacea/roblox-account-manager)
+### [MultiAlt — RAM (Roblox Account Manager)](https://github.com/luanmacea/MultiAlt)
 
 **The Roblox Account Manager built for the best user experience.** Keep every Roblox account in one place, run many clients at once and play on your alts without logging out — with Auto Rejoin, anti-AFK, server finder, friends join and encrypted storage.
 
-[![Release](https://img.shields.io/github/v/release/luanmacea/roblox-account-manager?include_prereleases&style=flat-square&color=38bdf8&label=release)](https://github.com/luanmacea/roblox-account-manager/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/luanmacea/roblox-account-manager/total?style=flat-square&color=4f46e5)](https://github.com/luanmacea/roblox-account-manager/releases)
-[![Stars](https://img.shields.io/github/stars/luanmacea/roblox-account-manager?style=flat-square&color=f59e0b)](https://github.com/luanmacea/roblox-account-manager/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/luanmacea/roblox-account-manager/develop?style=flat-square&label=last%20commit)](https://github.com/luanmacea/roblox-account-manager/commits/develop)
-[![License](https://img.shields.io/github/license/luanmacea/roblox-account-manager?style=flat-square)](https://github.com/luanmacea/roblox-account-manager/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/luanmacea/MultiAlt?include_prereleases&style=flat-square&color=38bdf8&label=release)](https://github.com/luanmacea/MultiAlt/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/luanmacea/MultiAlt/total?style=flat-square&color=4f46e5)](https://github.com/luanmacea/MultiAlt/releases)
+[![Stars](https://img.shields.io/github/stars/luanmacea/MultiAlt?style=flat-square&color=f59e0b)](https://github.com/luanmacea/MultiAlt/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/luanmacea/MultiAlt/develop?style=flat-square&label=last%20commit)](https://github.com/luanmacea/MultiAlt/commits/develop)
+[![License](https://img.shields.io/github/license/luanmacea/MultiAlt?style=flat-square)](https://github.com/luanmacea/MultiAlt/blob/main/LICENSE)
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/luanmacea/roblox-account-manager">
-    <img src="https://raw.githubusercontent.com/luanmacea/roblox-account-manager/main/Images/Image5.png" width="820" alt="RAM screenshot" />
+  <a href="https://github.com/luanmacea/MultiAlt">
+    <img src="https://raw.githubusercontent.com/luanmacea/MultiAlt/main/Images/Image5.png" width="820" alt="MultiAlt screenshot" />
   </a>
 </p>
 
 <table>
 <tr><td>🦀 <b>Stack</b></td><td>Rust (Tokio, Win32 APIs) · Tauri 2 · React 19 · TypeScript · Tailwind</td></tr>
 <tr><td>🔐 <b>Security</b></td><td>Accounts always encrypted on disk (Argon2 + XSalsa20-Poly1305); closed allowlists for anything that injects input</td></tr>
-<tr><td>🧪 <b>Quality</b></td><td>~3,300 automated tests (Rust + Vitest) gating every commit, CI on GitHub Actions</td></tr>
+<tr><td>🧪 <b>Quality</b></td><td>4,000+ automated tests (Rust + Vitest) gating every commit, CI on GitHub Actions</td></tr>
 <tr><td>🚀 <b>Delivery</b></td><td>Signed auto-updates, per-user MSI with no admin prompt, every release scanned on VirusTotal and Windows Defender</td></tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/luanmacea/roblox-account-manager/releases/latest"><img src="https://img.shields.io/badge/⬇%20Download%20RAM-4F46E5?style=for-the-badge" alt="Download RAM" /></a>
+  <a href="https://github.com/luanmacea/MultiAlt/releases/latest"><img src="https://img.shields.io/badge/⬇%20Download%20MultiAlt-4F46E5?style=for-the-badge" alt="Download MultiAlt" /></a>
 </p>
 
 ---
@@ -156,6 +156,6 @@ Computer-vision automation shipped as a portable `.exe`, with its own licensing:
 
 <sub>Regenerated every day by GitHub Actions in this repository.</sub>
 
-⭐ **If RAM helps you, a star on the repo helps it reach more players.**
+⭐ **If MultiAlt helps you, a star on the repo helps it reach more players.**
 
 </div>
